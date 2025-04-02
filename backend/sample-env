@@ -1,0 +1,4 @@
+RPC_URL="https://xxxxxxxx"
+PRIVATE_KEY="0x0xxxxxxxxxxxxxxxxxxx"
+CONTRACT_ADDRESS=0xfb4xxxxxxxxxxxxxxxxx
+INTERVAL=60000  # Interval in milliseconds (60000 ms = 1 minute)

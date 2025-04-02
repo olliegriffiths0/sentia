@@ -83,7 +83,7 @@ contract SENTIA is ERC721, Ownable, ReentrancyGuard {
     /**
      * @dev dev versioning
      */
-    uint256 public constant version = 3;
+    uint256 public constant version = 4;
 
     // Constants
     /**

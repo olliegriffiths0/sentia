@@ -27,7 +27,7 @@ contract SENTIATest is Test {
         user4 = address(0x5);
 
         vm.prank(owner);
-        sentia = new SENTIA(owner);
+        sentia = new SENTIA(owner, owner);
 
         vm.deal(user1, 10 ether);
         vm.deal(user2, 10 ether);
